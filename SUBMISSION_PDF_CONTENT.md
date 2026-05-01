@@ -3,7 +3,7 @@
 **Candidate:** Satya
 **Position:** Infrastructure / SRE Intern
 **Submission Date:** May 1, 2026
-**GitHub Repository:** https://github.com/Satya-0023/Zeotap-Incident-Management-System-IMS-.git
+**GitHub Repository:** https://github.com/Satya-0023/Zeotap-Incident-Management-System
 
 ---
 
