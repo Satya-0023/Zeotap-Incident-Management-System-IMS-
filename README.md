@@ -2,6 +2,9 @@
 
 A production-grade, high-throughput Incident Management System designed to handle massive signal bursts, perform automated debouncing, and manage the full incident lifecycle with SRE-level resilience.
 
+**Author**: Satya  
+**GitHub Repository**: [https://github.com/Satya-0023/Zeotap-Incident-Management-System-IMS-.git](https://github.com/Satya-0023/Zeotap-Incident-Management-System-IMS-.git)
+
 ## 🚀 Quick Start (Docker)
 
 Ensure you have **Docker** and **Docker Compose** installed.
